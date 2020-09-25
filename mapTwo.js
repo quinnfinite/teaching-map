@@ -1,7 +1,7 @@
-var arr = [2, 6, 78, 101, 4, 34]
+var arr = [101, 4, 34]
 
 //Using map, return an array where each element is a boolean indicating if it's greater than 34
-//Expect: [ false, false, true, true, false, false ]
+//Expect: [ true, false, false ]
 
 
 //Step 1
